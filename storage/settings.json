@@ -1,0 +1,10 @@
+{
+  "SystemStatus": "1",
+  "SystemMessage": "Hệ thống đang hoạt động bình thướng",
+  "TimeUpdatePosition": "2",
+  "TimeUpdatePositionDescription": "Thời gian tính bằng phút để gửi lên theo gói data position người dùng",
+  "DistanceRealTimeData": "20",
+  "DistanceRealTimeDataDescription": "Khoảng cách mà khi người dung di chuyển sẽ được thiệt bị ghi nhận thành 1 điểm, đươn vị la (m)",
+  "DistanceData": "100",
+  "DistanceDataDescription": "50m se insert vao 1 lan"
+}
